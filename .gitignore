@@ -42,3 +42,4 @@ yarn-error.log
 # Docs / site builds
 docs/_build/
 site/
+firmware-repo/

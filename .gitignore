@@ -1,0 +1,44 @@
+# PlatformIO
+.pio/
+.venv/
+.vscode/
+.vs/
+build/
+dist/
+*.bin
+*.elf
+*.map
+sdkconfig
+
+# Editor / OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# PlatformIO / build artifacts
+.pioenvs/
+.pio/build/
+*.hex
+*.bin
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Logs
+*.log
+
+# Archives / packages
+*.zip
+*.tar.gz
+
+# Docs / site builds
+docs/_build/
+site/
